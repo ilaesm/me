@@ -1,4 +1,4 @@
-<h3 align="center">Developer interested in quantiative/traditional finance</h3>
+<h3 align="center">Hobbyist interested in quantiative/traditional finance</h3>
 
 - 🔭 I’m currently working on [Paraedge](paraedge.co)
 
