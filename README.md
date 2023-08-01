@@ -1,14 +1,14 @@
-<h3 align="center">Hobbyist interested in quantiative/traditional finance</h3>
+<h3 align="center">I'm interested in quantiative/traditional finance</h3>
 
 - 🔭 I’m currently working on [Paraedge](paraedge.co)
 
-- 🌱 I’m currently learning **Node.js and XGBoost**
+- 🌱 I’m currently learning **Node.js**
 
-- 🔭 I’m currently working on pt2 [Valatility Capital Group (Mock HF) Portfolio Dashboard](https://github.com/ilaesm/Portfolio-Analytics-Dashboard)
+- 🔭 I’m currently working on pt2 [Portfolio Dashboard](https://github.com/ilaesm/Portfolio-Analytics-Dashboard)
 
 - 📫 How to reach me **ila@paraedge.co**
 
-- 📄 Know about my experiences [https://ca.linkedin.com/in/ila-esmaeili-72a50a202](https://ca.linkedin.com/in/ila-esmaeili-72a50a202)
+- 📄 Know about my experiences [linkedin](https://ca.linkedin.com/in/ila-esmaeili-72a50a202)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
