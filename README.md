@@ -1,10 +1,8 @@
-<h3 align="center">I'm interested in quantiative/traditional finance</h3>
+<h3 align="center">I'm interested in Software and Financial Markets</h3>
 
 - 🔭 I’m currently working on [Paraedge](paraedge.co)
 
 - 🌱 I’m currently learning **Node.js**
-
-- 🔭 I’m currently working on pt2 [Portfolio Dashboard](https://github.com/ilaesm/Portfolio-Analytics-Dashboard)
 
 - 📫 How to reach me **ila@paraedge.co**
 
