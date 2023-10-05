@@ -1,5 +1,6 @@
 <h3 align="center">I'm interested in Software and Financial Markets</h3>
 <Strong>Note: Many of my projects are private</Strong>
+
 - 🔭 I’m currently working on [Paraedge](paraedge.co)
 
 - 🌱 I’m currently learning **Node.js**
